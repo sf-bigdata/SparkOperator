@@ -3,6 +3,21 @@ entries:
   spark-operator:
   - apiVersion: v2
     appVersion: v1beta2-1.3.7-3.1.1
+    created: "2022-06-08T09:54:05.100901651Z"
+    description: A Helm chart for Spark on Kubernetes operator
+    digest: 457db1ddb4b2c1311e18bbb12fdb319f4158fe2f7e846dc3854eeb12fb53bd7f
+    home: https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+    keywords:
+    - spark
+    maintainers:
+    - email: yuchaoran2011@gmail.com
+      name: yuchaoran2011
+    name: spark-operator
+    urls:
+    - https://github.com/sf-bigdata/spark-operator/releases/download/spark-operator-chart-1.1.25/spark-operator-1.1.25.tgz
+    version: 1.1.25
+  - apiVersion: v2
+    appVersion: v1beta2-1.3.7-3.1.1
     created: "2022-06-07T03:47:26.230929308Z"
     description: A Helm chart for Spark on Kubernetes operator
     digest: e17ee32b80432e8bc698a11b18e4a818b2f350aecca90534803f09668cf37838
